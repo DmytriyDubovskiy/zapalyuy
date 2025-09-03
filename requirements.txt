@@ -7,3 +7,7 @@ requests==2.31.0
 APScheduler==3.10.4
 pytz==2024.1
 tzdata==2024.1
+
+# фіксуємо pydantic і ядро, щоб не збирало з Rust
+pydantic==2.5.3
+pydantic-core==2.14.6
