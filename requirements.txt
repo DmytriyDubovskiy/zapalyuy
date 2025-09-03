@@ -7,5 +7,3 @@ requests==2.31.0
 APScheduler==3.10.4
 pytz==2024.1
 tzdata==2024.1
-pydantic==2.4.2
-pydantic-core==2.10.1
